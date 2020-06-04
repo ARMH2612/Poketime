@@ -1,0 +1,13 @@
+.home .post {
+  overflow: hidden;
+  padding-left: 95px;
+}
+
+.home .post img {
+  transform: rotate(30deg);
+  height: 250px;
+  position: absolute;
+  left: -100px;
+  top: -20px;
+  opacity: 0.6;
+}
